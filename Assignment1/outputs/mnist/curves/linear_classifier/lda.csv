@@ -1,0 +1,10 @@
+dataset,reducer,classifier,dim,accuracy,error_rate,pca_dim,n_train,n_test,random_state,test_size,method_label,classifier_label
+mnist,lda,logreg,1,0.345,0.655,,14000,6000,0,0.3,LDA,linear classifier
+mnist,lda,logreg,2,0.5175,0.48250000000000004,,14000,6000,0,0.3,LDA,linear classifier
+mnist,lda,logreg,3,0.6925,0.3075,,14000,6000,0,0.3,LDA,linear classifier
+mnist,lda,logreg,4,0.7745,0.22550000000000003,,14000,6000,0,0.3,LDA,linear classifier
+mnist,lda,logreg,5,0.7905,0.20950000000000002,,14000,6000,0,0.3,LDA,linear classifier
+mnist,lda,logreg,6,0.8116666666666666,0.18833333333333335,,14000,6000,0,0.3,LDA,linear classifier
+mnist,lda,logreg,7,0.837,0.16300000000000003,,14000,6000,0,0.3,LDA,linear classifier
+mnist,lda,logreg,8,0.8528333333333333,0.14716666666666667,,14000,6000,0,0.3,LDA,linear classifier
+mnist,lda,logreg,9,0.8581666666666666,0.14183333333333337,,14000,6000,0,0.3,LDA,linear classifier

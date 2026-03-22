@@ -1,0 +1,17 @@
+dataset,reducer,classifier,dim,accuracy,error_rate,pca_dim,pca_variance,n_train,n_test,random_state,test_size,method_label,classifier_label
+olivetti_faces,pca95_lda,mahalanobis,1,0.25833333333333336,0.7416666666666667,103,0.95,280,120,0,0.3,PCA (>95%) +LDA,The minimum Mahalanobis distance classifier
+olivetti_faces,pca95_lda,mahalanobis,2,0.5,0.5,103,0.95,280,120,0,0.3,PCA (>95%) +LDA,The minimum Mahalanobis distance classifier
+olivetti_faces,pca95_lda,mahalanobis,3,0.6916666666666667,0.30833333333333335,103,0.95,280,120,0,0.3,PCA (>95%) +LDA,The minimum Mahalanobis distance classifier
+olivetti_faces,pca95_lda,mahalanobis,4,0.8333333333333334,0.16666666666666663,103,0.95,280,120,0,0.3,PCA (>95%) +LDA,The minimum Mahalanobis distance classifier
+olivetti_faces,pca95_lda,mahalanobis,5,0.85,0.15000000000000002,103,0.95,280,120,0,0.3,PCA (>95%) +LDA,The minimum Mahalanobis distance classifier
+olivetti_faces,pca95_lda,mahalanobis,6,0.8916666666666667,0.10833333333333328,103,0.95,280,120,0,0.3,PCA (>95%) +LDA,The minimum Mahalanobis distance classifier
+olivetti_faces,pca95_lda,mahalanobis,7,0.9166666666666666,0.08333333333333337,103,0.95,280,120,0,0.3,PCA (>95%) +LDA,The minimum Mahalanobis distance classifier
+olivetti_faces,pca95_lda,mahalanobis,8,0.95,0.050000000000000044,103,0.95,280,120,0,0.3,PCA (>95%) +LDA,The minimum Mahalanobis distance classifier
+olivetti_faces,pca95_lda,mahalanobis,9,0.975,0.025000000000000022,103,0.95,280,120,0,0.3,PCA (>95%) +LDA,The minimum Mahalanobis distance classifier
+olivetti_faces,pca95_lda,mahalanobis,10,0.975,0.025000000000000022,103,0.95,280,120,0,0.3,PCA (>95%) +LDA,The minimum Mahalanobis distance classifier
+olivetti_faces,pca95_lda,mahalanobis,15,0.9583333333333334,0.04166666666666663,103,0.95,280,120,0,0.3,PCA (>95%) +LDA,The minimum Mahalanobis distance classifier
+olivetti_faces,pca95_lda,mahalanobis,20,0.9833333333333333,0.01666666666666672,103,0.95,280,120,0,0.3,PCA (>95%) +LDA,The minimum Mahalanobis distance classifier
+olivetti_faces,pca95_lda,mahalanobis,25,0.9833333333333333,0.01666666666666672,103,0.95,280,120,0,0.3,PCA (>95%) +LDA,The minimum Mahalanobis distance classifier
+olivetti_faces,pca95_lda,mahalanobis,30,0.975,0.025000000000000022,103,0.95,280,120,0,0.3,PCA (>95%) +LDA,The minimum Mahalanobis distance classifier
+olivetti_faces,pca95_lda,mahalanobis,35,0.9833333333333333,0.01666666666666672,103,0.95,280,120,0,0.3,PCA (>95%) +LDA,The minimum Mahalanobis distance classifier
+olivetti_faces,pca95_lda,mahalanobis,39,0.9833333333333333,0.01666666666666672,103,0.95,280,120,0,0.3,PCA (>95%) +LDA,The minimum Mahalanobis distance classifier

@@ -1,0 +1,10 @@
+dataset,reducer,classifier,dim,accuracy,error_rate,pca_dim,pca_variance,n_train,n_test,random_state,test_size,method_label,classifier_label
+mnist,pca90_lda,knn,1,0.32133333333333336,0.6786666666666666,205,0.9,14000,6000,0,0.3,PCA (>90%) +LDA,KNN-5
+mnist,pca90_lda,knn,2,0.49666666666666665,0.5033333333333334,205,0.9,14000,6000,0,0.3,PCA (>90%) +LDA,KNN-5
+mnist,pca90_lda,knn,3,0.723,0.277,205,0.9,14000,6000,0,0.3,PCA (>90%) +LDA,KNN-5
+mnist,pca90_lda,knn,4,0.8075,0.1925,205,0.9,14000,6000,0,0.3,PCA (>90%) +LDA,KNN-5
+mnist,pca90_lda,knn,5,0.8275,0.1725,205,0.9,14000,6000,0,0.3,PCA (>90%) +LDA,KNN-5
+mnist,pca90_lda,knn,6,0.8553333333333333,0.14466666666666672,205,0.9,14000,6000,0,0.3,PCA (>90%) +LDA,KNN-5
+mnist,pca90_lda,knn,7,0.8796666666666667,0.12033333333333329,205,0.9,14000,6000,0,0.3,PCA (>90%) +LDA,KNN-5
+mnist,pca90_lda,knn,8,0.9023333333333333,0.09766666666666668,205,0.9,14000,6000,0,0.3,PCA (>90%) +LDA,KNN-5
+mnist,pca90_lda,knn,9,0.9068333333333334,0.09316666666666662,205,0.9,14000,6000,0,0.3,PCA (>90%) +LDA,KNN-5

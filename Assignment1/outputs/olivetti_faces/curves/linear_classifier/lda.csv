@@ -1,0 +1,17 @@
+dataset,reducer,classifier,dim,accuracy,error_rate,pca_dim,n_train,n_test,random_state,test_size,method_label,classifier_label
+olivetti_faces,lda,logreg,1,0.075,0.925,,280,120,0,0.3,LDA,linear classifier
+olivetti_faces,lda,logreg,2,0.23333333333333334,0.7666666666666666,,280,120,0,0.3,LDA,linear classifier
+olivetti_faces,lda,logreg,3,0.38333333333333336,0.6166666666666667,,280,120,0,0.3,LDA,linear classifier
+olivetti_faces,lda,logreg,4,0.5833333333333334,0.41666666666666663,,280,120,0,0.3,LDA,linear classifier
+olivetti_faces,lda,logreg,5,0.6666666666666666,0.33333333333333337,,280,120,0,0.3,LDA,linear classifier
+olivetti_faces,lda,logreg,6,0.7833333333333333,0.21666666666666667,,280,120,0,0.3,LDA,linear classifier
+olivetti_faces,lda,logreg,7,0.875,0.125,,280,120,0,0.3,LDA,linear classifier
+olivetti_faces,lda,logreg,8,0.9,0.09999999999999998,,280,120,0,0.3,LDA,linear classifier
+olivetti_faces,lda,logreg,9,0.925,0.07499999999999996,,280,120,0,0.3,LDA,linear classifier
+olivetti_faces,lda,logreg,10,0.9333333333333333,0.06666666666666665,,280,120,0,0.3,LDA,linear classifier
+olivetti_faces,lda,logreg,15,0.9583333333333334,0.04166666666666663,,280,120,0,0.3,LDA,linear classifier
+olivetti_faces,lda,logreg,20,0.9583333333333334,0.04166666666666663,,280,120,0,0.3,LDA,linear classifier
+olivetti_faces,lda,logreg,25,0.9583333333333334,0.04166666666666663,,280,120,0,0.3,LDA,linear classifier
+olivetti_faces,lda,logreg,30,0.9583333333333334,0.04166666666666663,,280,120,0,0.3,LDA,linear classifier
+olivetti_faces,lda,logreg,35,0.9583333333333334,0.04166666666666663,,280,120,0,0.3,LDA,linear classifier
+olivetti_faces,lda,logreg,39,0.9583333333333334,0.04166666666666663,,280,120,0,0.3,LDA,linear classifier

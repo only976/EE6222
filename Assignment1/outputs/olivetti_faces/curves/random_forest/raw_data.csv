@@ -1,0 +1,2 @@
+dataset,reducer,classifier,dim,accuracy,error_rate,pca_dim,n_train,n_test,random_state,test_size,method_label,classifier_label
+olivetti_faces,none,rf,4096,0.95,0.050000000000000044,,280,120,0,0.3,Raw Data,Random Forest

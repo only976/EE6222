@@ -1,0 +1,10 @@
+dataset,reducer,classifier,dim,accuracy,error_rate,pca_dim,pca_variance,n_train,n_test,random_state,test_size,method_label,classifier_label
+mnist,pca95_lda,rf,1,0.2801666666666667,0.7198333333333333,292,0.95,14000,6000,0,0.3,PCA (>95%) +LDA,Random Forest
+mnist,pca95_lda,rf,2,0.5128333333333334,0.48716666666666664,292,0.95,14000,6000,0,0.3,PCA (>95%) +LDA,Random Forest
+mnist,pca95_lda,rf,3,0.729,0.271,292,0.95,14000,6000,0,0.3,PCA (>95%) +LDA,Random Forest
+mnist,pca95_lda,rf,4,0.8163333333333334,0.18366666666666664,292,0.95,14000,6000,0,0.3,PCA (>95%) +LDA,Random Forest
+mnist,pca95_lda,rf,5,0.838,0.16200000000000003,292,0.95,14000,6000,0,0.3,PCA (>95%) +LDA,Random Forest
+mnist,pca95_lda,rf,6,0.8531666666666666,0.14683333333333337,292,0.95,14000,6000,0,0.3,PCA (>95%) +LDA,Random Forest
+mnist,pca95_lda,rf,7,0.88,0.12,292,0.95,14000,6000,0,0.3,PCA (>95%) +LDA,Random Forest
+mnist,pca95_lda,rf,8,0.892,0.10799999999999998,292,0.95,14000,6000,0,0.3,PCA (>95%) +LDA,Random Forest
+mnist,pca95_lda,rf,9,0.8988333333333334,0.10116666666666663,292,0.95,14000,6000,0,0.3,PCA (>95%) +LDA,Random Forest

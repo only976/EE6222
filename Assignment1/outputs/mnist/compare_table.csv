@@ -1,0 +1,6 @@
+classifier,compare_png
+The minimum Mahalanobis distance classifier,mnist/compare/the_minimum_mahalanobis_distance_classifier.png
+linear classifier,mnist/compare/linear_classifier.png
+KNN-1,mnist/compare/knn_1.png
+KNN-5,mnist/compare/knn_5.png
+Random Forest,mnist/compare/random_forest.png

@@ -1,0 +1,2 @@
+dataset,reducer,classifier,dim,accuracy,error_rate,pca_dim,n_train,n_test,random_state,test_size,method_label,classifier_label
+mnist,none,knn,784,0.9183333333333333,0.08166666666666667,,14000,6000,0,0.3,Raw Data,KNN-1

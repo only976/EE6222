@@ -1,0 +1,31 @@
+classifier,method,best_accuracy
+KNN-1,LDA,0.8745
+KNN-1,PCA,0.9396666666666667
+KNN-1,PCA (>90%) +LDA,0.8915
+KNN-1,PCA (>95%) +LDA,0.886
+KNN-1,PCA (>99%) +LDA,0.8803333333333333
+KNN-1,Raw Data,0.9183333333333333
+KNN-5,LDA,0.8881666666666667
+KNN-5,PCA,0.9425
+KNN-5,PCA (>90%) +LDA,0.9068333333333334
+KNN-5,PCA (>95%) +LDA,0.9036666666666666
+KNN-5,PCA (>99%) +LDA,0.8941666666666667
+KNN-5,Raw Data,0.9206666666666666
+Random Forest,LDA,0.8851666666666667
+Random Forest,PCA,0.9315
+Random Forest,PCA (>90%) +LDA,0.9016666666666666
+Random Forest,PCA (>95%) +LDA,0.8988333333333334
+Random Forest,PCA (>99%) +LDA,0.8886666666666667
+Random Forest,Raw Data,0.9556666666666667
+The minimum Mahalanobis distance classifier,LDA,0.8415
+The minimum Mahalanobis distance classifier,PCA,0.8523333333333334
+The minimum Mahalanobis distance classifier,PCA (>90%) +LDA,0.8516666666666667
+The minimum Mahalanobis distance classifier,PCA (>95%) +LDA,0.8506666666666667
+The minimum Mahalanobis distance classifier,PCA (>99%) +LDA,0.846
+The minimum Mahalanobis distance classifier,Raw Data,0.8476666666666667
+linear classifier,LDA,0.8581666666666666
+linear classifier,PCA,0.9083333333333333
+linear classifier,PCA (>90%) +LDA,0.8701666666666666
+linear classifier,PCA (>95%) +LDA,0.8713333333333333
+linear classifier,PCA (>99%) +LDA,0.8628333333333333
+linear classifier,Raw Data,0.8873333333333333

@@ -1,0 +1,17 @@
+dataset,reducer,classifier,dim,accuracy,error_rate,pca_dim,pca_variance,n_train,n_test,random_state,test_size,method_label,classifier_label
+olivetti_faces,pca99_lda,rf,1,0.16666666666666666,0.8333333333333334,199,0.99,280,120,0,0.3,PCA (>99%) +LDA,Random Forest
+olivetti_faces,pca99_lda,rf,2,0.4083333333333333,0.5916666666666667,199,0.99,280,120,0,0.3,PCA (>99%) +LDA,Random Forest
+olivetti_faces,pca99_lda,rf,3,0.5916666666666667,0.4083333333333333,199,0.99,280,120,0,0.3,PCA (>99%) +LDA,Random Forest
+olivetti_faces,pca99_lda,rf,4,0.7,0.30000000000000004,199,0.99,280,120,0,0.3,PCA (>99%) +LDA,Random Forest
+olivetti_faces,pca99_lda,rf,5,0.725,0.275,199,0.99,280,120,0,0.3,PCA (>99%) +LDA,Random Forest
+olivetti_faces,pca99_lda,rf,6,0.7416666666666667,0.2583333333333333,199,0.99,280,120,0,0.3,PCA (>99%) +LDA,Random Forest
+olivetti_faces,pca99_lda,rf,7,0.7416666666666667,0.2583333333333333,199,0.99,280,120,0,0.3,PCA (>99%) +LDA,Random Forest
+olivetti_faces,pca99_lda,rf,8,0.825,0.17500000000000004,199,0.99,280,120,0,0.3,PCA (>99%) +LDA,Random Forest
+olivetti_faces,pca99_lda,rf,9,0.825,0.17500000000000004,199,0.99,280,120,0,0.3,PCA (>99%) +LDA,Random Forest
+olivetti_faces,pca99_lda,rf,10,0.8333333333333334,0.16666666666666663,199,0.99,280,120,0,0.3,PCA (>99%) +LDA,Random Forest
+olivetti_faces,pca99_lda,rf,15,0.875,0.125,199,0.99,280,120,0,0.3,PCA (>99%) +LDA,Random Forest
+olivetti_faces,pca99_lda,rf,20,0.8833333333333333,0.1166666666666667,199,0.99,280,120,0,0.3,PCA (>99%) +LDA,Random Forest
+olivetti_faces,pca99_lda,rf,25,0.9166666666666666,0.08333333333333337,199,0.99,280,120,0,0.3,PCA (>99%) +LDA,Random Forest
+olivetti_faces,pca99_lda,rf,30,0.8833333333333333,0.1166666666666667,199,0.99,280,120,0,0.3,PCA (>99%) +LDA,Random Forest
+olivetti_faces,pca99_lda,rf,35,0.8833333333333333,0.1166666666666667,199,0.99,280,120,0,0.3,PCA (>99%) +LDA,Random Forest
+olivetti_faces,pca99_lda,rf,39,0.8833333333333333,0.1166666666666667,199,0.99,280,120,0,0.3,PCA (>99%) +LDA,Random Forest

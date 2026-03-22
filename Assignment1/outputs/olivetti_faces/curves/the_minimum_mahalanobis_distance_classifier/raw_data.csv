@@ -1,0 +1,2 @@
+dataset,reducer,classifier,dim,accuracy,error_rate,pca_dim,n_train,n_test,random_state,test_size,method_label,classifier_label
+olivetti_faces,none,mahalanobis,4096,0.9666666666666667,0.033333333333333326,,280,120,0,0.3,Raw Data,The minimum Mahalanobis distance classifier

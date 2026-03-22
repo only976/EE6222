@@ -1,0 +1,20 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# --- OS ---
+.DS_Store
+
+# --- Local environments ---
+.venv/
+venv/
+.env/
+
+# --- Generated paper/report artifacts ---
+Assignment1/etc/

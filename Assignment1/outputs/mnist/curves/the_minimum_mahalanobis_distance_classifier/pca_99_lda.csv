@@ -1,0 +1,10 @@
+dataset,reducer,classifier,dim,accuracy,error_rate,pca_dim,pca_variance,n_train,n_test,random_state,test_size,method_label,classifier_label
+mnist,pca99_lda,mahalanobis,1,0.37,0.63,500,0.99,14000,6000,0,0.3,PCA (>99%) +LDA,The minimum Mahalanobis distance classifier
+mnist,pca99_lda,mahalanobis,2,0.548,0.45199999999999996,500,0.99,14000,6000,0,0.3,PCA (>99%) +LDA,The minimum Mahalanobis distance classifier
+mnist,pca99_lda,mahalanobis,3,0.724,0.276,500,0.99,14000,6000,0,0.3,PCA (>99%) +LDA,The minimum Mahalanobis distance classifier
+mnist,pca99_lda,mahalanobis,4,0.7868333333333334,0.21316666666666662,500,0.99,14000,6000,0,0.3,PCA (>99%) +LDA,The minimum Mahalanobis distance classifier
+mnist,pca99_lda,mahalanobis,5,0.7985,0.2015,500,0.99,14000,6000,0,0.3,PCA (>99%) +LDA,The minimum Mahalanobis distance classifier
+mnist,pca99_lda,mahalanobis,6,0.8086666666666666,0.19133333333333336,500,0.99,14000,6000,0,0.3,PCA (>99%) +LDA,The minimum Mahalanobis distance classifier
+mnist,pca99_lda,mahalanobis,7,0.8293333333333334,0.17066666666666663,500,0.99,14000,6000,0,0.3,PCA (>99%) +LDA,The minimum Mahalanobis distance classifier
+mnist,pca99_lda,mahalanobis,8,0.8453333333333334,0.15466666666666662,500,0.99,14000,6000,0,0.3,PCA (>99%) +LDA,The minimum Mahalanobis distance classifier
+mnist,pca99_lda,mahalanobis,9,0.846,0.15400000000000003,500,0.99,14000,6000,0,0.3,PCA (>99%) +LDA,The minimum Mahalanobis distance classifier

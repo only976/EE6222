@@ -1,0 +1,17 @@
+dataset,reducer,classifier,dim,accuracy,error_rate,pca_dim,n_train,n_test,random_state,test_size,method_label,classifier_label
+olivetti_faces,lda,rf,1,0.175,0.825,,280,120,0,0.3,LDA,Random Forest
+olivetti_faces,lda,rf,2,0.425,0.575,,280,120,0,0.3,LDA,Random Forest
+olivetti_faces,lda,rf,3,0.6083333333333333,0.3916666666666667,,280,120,0,0.3,LDA,Random Forest
+olivetti_faces,lda,rf,4,0.7333333333333333,0.2666666666666667,,280,120,0,0.3,LDA,Random Forest
+olivetti_faces,lda,rf,5,0.8083333333333333,0.19166666666666665,,280,120,0,0.3,LDA,Random Forest
+olivetti_faces,lda,rf,6,0.85,0.15000000000000002,,280,120,0,0.3,LDA,Random Forest
+olivetti_faces,lda,rf,7,0.8666666666666667,0.1333333333333333,,280,120,0,0.3,LDA,Random Forest
+olivetti_faces,lda,rf,8,0.9,0.09999999999999998,,280,120,0,0.3,LDA,Random Forest
+olivetti_faces,lda,rf,9,0.9083333333333333,0.09166666666666667,,280,120,0,0.3,LDA,Random Forest
+olivetti_faces,lda,rf,10,0.925,0.07499999999999996,,280,120,0,0.3,LDA,Random Forest
+olivetti_faces,lda,rf,15,0.95,0.050000000000000044,,280,120,0,0.3,LDA,Random Forest
+olivetti_faces,lda,rf,20,0.9666666666666667,0.033333333333333326,,280,120,0,0.3,LDA,Random Forest
+olivetti_faces,lda,rf,25,0.95,0.050000000000000044,,280,120,0,0.3,LDA,Random Forest
+olivetti_faces,lda,rf,30,0.95,0.050000000000000044,,280,120,0,0.3,LDA,Random Forest
+olivetti_faces,lda,rf,35,0.95,0.050000000000000044,,280,120,0,0.3,LDA,Random Forest
+olivetti_faces,lda,rf,39,0.9583333333333334,0.04166666666666663,,280,120,0,0.3,LDA,Random Forest

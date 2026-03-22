@@ -1,0 +1,10 @@
+dataset,reducer,classifier,dim,accuracy,error_rate,pca_dim,n_train,n_test,random_state,test_size,method_label,classifier_label
+mnist,lda,rf,1,0.2885,0.7115,,14000,6000,0,0.3,LDA,Random Forest
+mnist,lda,rf,2,0.5236666666666666,0.4763333333333334,,14000,6000,0,0.3,LDA,Random Forest
+mnist,lda,rf,3,0.7231666666666666,0.2768333333333334,,14000,6000,0,0.3,LDA,Random Forest
+mnist,lda,rf,4,0.804,0.19599999999999995,,14000,6000,0,0.3,LDA,Random Forest
+mnist,lda,rf,5,0.821,0.17900000000000005,,14000,6000,0,0.3,LDA,Random Forest
+mnist,lda,rf,6,0.8438333333333333,0.15616666666666668,,14000,6000,0,0.3,LDA,Random Forest
+mnist,lda,rf,7,0.8698333333333333,0.13016666666666665,,14000,6000,0,0.3,LDA,Random Forest
+mnist,lda,rf,8,0.8831666666666667,0.11683333333333334,,14000,6000,0,0.3,LDA,Random Forest
+mnist,lda,rf,9,0.8851666666666667,0.11483333333333334,,14000,6000,0,0.3,LDA,Random Forest

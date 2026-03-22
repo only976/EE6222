@@ -1,0 +1,15 @@
+dataset,reducer,classifier,dim,accuracy,error_rate,pca_dim,n_train,n_test,random_state,test_size,method_label,classifier_label
+olivetti_faces,pca,knn,1,0.125,0.875,,280,120,0,0.3,PCA,KNN-5
+olivetti_faces,pca,knn,2,0.23333333333333334,0.7666666666666666,,280,120,0,0.3,PCA,KNN-5
+olivetti_faces,pca,knn,5,0.625,0.375,,280,120,0,0.3,PCA,KNN-5
+olivetti_faces,pca,knn,10,0.7416666666666667,0.2583333333333333,,280,120,0,0.3,PCA,KNN-5
+olivetti_faces,pca,knn,15,0.775,0.22499999999999998,,280,120,0,0.3,PCA,KNN-5
+olivetti_faces,pca,knn,20,0.7916666666666666,0.20833333333333337,,280,120,0,0.3,PCA,KNN-5
+olivetti_faces,pca,knn,30,0.8416666666666667,0.15833333333333333,,280,120,0,0.3,PCA,KNN-5
+olivetti_faces,pca,knn,40,0.825,0.17500000000000004,,280,120,0,0.3,PCA,KNN-5
+olivetti_faces,pca,knn,50,0.8,0.19999999999999996,,280,120,0,0.3,PCA,KNN-5
+olivetti_faces,pca,knn,75,0.8166666666666667,0.18333333333333335,,280,120,0,0.3,PCA,KNN-5
+olivetti_faces,pca,knn,100,0.825,0.17500000000000004,,280,120,0,0.3,PCA,KNN-5
+olivetti_faces,pca,knn,150,0.8166666666666667,0.18333333333333335,,280,120,0,0.3,PCA,KNN-5
+olivetti_faces,pca,knn,200,0.8083333333333333,0.19166666666666665,,280,120,0,0.3,PCA,KNN-5
+olivetti_faces,pca,knn,280,0.8166666666666667,0.18333333333333335,,280,120,0,0.3,PCA,KNN-5

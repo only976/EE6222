@@ -1,0 +1,2 @@
+dataset,reducer,classifier,dim,accuracy,error_rate,pca_dim,n_train,n_test,random_state,test_size,method_label,classifier_label
+mnist,none,mahalanobis,784,0.8476666666666667,0.15233333333333332,,14000,6000,0,0.3,Raw Data,The minimum Mahalanobis distance classifier

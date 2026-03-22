@@ -1,0 +1,10 @@
+dataset,reducer,classifier,dim,accuracy,error_rate,pca_dim,pca_variance,n_train,n_test,random_state,test_size,method_label,classifier_label
+mnist,pca90_lda,logreg,1,0.3431666666666667,0.6568333333333334,205,0.9,14000,6000,0,0.3,PCA (>90%) +LDA,linear classifier
+mnist,pca90_lda,logreg,2,0.4965,0.5035000000000001,205,0.9,14000,6000,0,0.3,PCA (>90%) +LDA,linear classifier
+mnist,pca90_lda,logreg,3,0.6991666666666667,0.3008333333333333,205,0.9,14000,6000,0,0.3,PCA (>90%) +LDA,linear classifier
+mnist,pca90_lda,logreg,4,0.7881666666666667,0.21183333333333332,205,0.9,14000,6000,0,0.3,PCA (>90%) +LDA,linear classifier
+mnist,pca90_lda,logreg,5,0.8045,0.1955,205,0.9,14000,6000,0,0.3,PCA (>90%) +LDA,linear classifier
+mnist,pca90_lda,logreg,6,0.8153333333333334,0.18466666666666665,205,0.9,14000,6000,0,0.3,PCA (>90%) +LDA,linear classifier
+mnist,pca90_lda,logreg,7,0.8415,0.15849999999999997,205,0.9,14000,6000,0,0.3,PCA (>90%) +LDA,linear classifier
+mnist,pca90_lda,logreg,8,0.8666666666666667,0.1333333333333333,205,0.9,14000,6000,0,0.3,PCA (>90%) +LDA,linear classifier
+mnist,pca90_lda,logreg,9,0.8701666666666666,0.12983333333333336,205,0.9,14000,6000,0,0.3,PCA (>90%) +LDA,linear classifier

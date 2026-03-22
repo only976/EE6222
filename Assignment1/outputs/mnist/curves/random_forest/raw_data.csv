@@ -1,0 +1,2 @@
+dataset,reducer,classifier,dim,accuracy,error_rate,pca_dim,n_train,n_test,random_state,test_size,method_label,classifier_label
+mnist,none,rf,784,0.9556666666666667,0.044333333333333336,,14000,6000,0,0.3,Raw Data,Random Forest

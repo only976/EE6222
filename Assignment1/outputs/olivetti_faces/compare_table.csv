@@ -1,0 +1,6 @@
+classifier,compare_png
+The minimum Mahalanobis distance classifier,olivetti_faces/compare/the_minimum_mahalanobis_distance_classifier.png
+linear classifier,olivetti_faces/compare/linear_classifier.png
+KNN-1,olivetti_faces/compare/knn_1.png
+KNN-5,olivetti_faces/compare/knn_5.png
+Random Forest,olivetti_faces/compare/random_forest.png

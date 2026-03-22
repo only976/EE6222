@@ -1,0 +1,2 @@
+dataset,reducer,classifier,dim,accuracy,error_rate,pca_dim,n_train,n_test,random_state,test_size,method_label,classifier_label
+mnist,none,logreg,784,0.8873333333333333,0.11266666666666669,,14000,6000,0,0.3,Raw Data,linear classifier
